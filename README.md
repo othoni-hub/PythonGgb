@@ -12,3 +12,7 @@ Pour les fichiers ici présents :
 * ouvrir et copier le code
 * coller dans un nouveau fichier sur : https://geogebra.org/python/index.html
 * tester, jouer, comprendre, modifier, améliorer, inventer,... et partager !
+
+
+![image](https://github.com/othoni-hub/PythonGgb/assets/55344994/ba048f42-a5bc-4886-b035-7ad9f3c43511)
+
