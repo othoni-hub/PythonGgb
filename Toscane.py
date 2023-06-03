@@ -19,6 +19,6 @@ for k in range(19):
 
 #Segment(Point(9,freq_9), Point(9,0), color = "red")
 #Segment(Point(10,freq_10), Point(10,0), color = "blue")
-print('Fréquence du 9  : ' + str(frequences[10]))
-print('Fréquence du 10 : ' + str(frequences[11]))
+print('Fréquence du 9  : ' + str(frequences[9]))
+print('Fréquence du 10 : ' + str(frequences[10]))
     
