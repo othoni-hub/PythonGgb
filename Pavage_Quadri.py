@@ -1,4 +1,5 @@
-''' Tracer un pavage à partir d'un quadrilatère quelconque'''
+''' Tracer un pavage à partir d'un quadrilatère quelconque
+    Groupe des symtries-translations'''
 # SAMR :    A : Augmentation fonctionnelle par rapport à Python seul (facilité graphique)
 #               Point Ggb en tant que variable Python
 #           M : look in the box (par rapport à l'usage d'un bouton Ggb) :
@@ -78,5 +79,10 @@ figure5 = Polygon(liste_sommets_fig5, color = "orange")
 liste_sommets_fig6 = translation_poly(liste_sommets_fig5,V1)
 figure6 = Polygon(liste_sommets_fig6, color = "orange")
 
+# composition
+liste_sommets_fig7 = symetrie_centrale_poly(translation_poly(liste_sommets_fig5,V1),J)
+figure7 = Polygon(liste_sommets_fig7, color = "black")
+
 # faire deux boucles, avec poly courant, poly image
 # avec transfert de liste élt par élt
+
