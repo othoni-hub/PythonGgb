@@ -13,7 +13,7 @@ Pour les fichiers ici présents :
 * coller dans un nouveau fichier sur : https://geogebra.org/python/index.html
 * tester, jouer, comprendre, modifier, améliorer, inventer,... et partager !
 
-(Un des plus aboutis  : celui sur la symétrie centrale : https://github.com/othoni-hub/PythonGgb/blob/2f90451731fb4da033e28e3c99256f067d58197c/Symetrie_centrale.py
+(Un parmi les fichiers aboutis  : celui sur la symétrie centrale : https://github.com/othoni-hub/PythonGgb/blob/2f90451731fb4da033e28e3c99256f067d58197c/Symetrie_centrale.py
 pour s'approprier les subtilités du langage, et quelques *tips* bien utiles.)
 
 
